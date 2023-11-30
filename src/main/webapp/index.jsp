@@ -3,16 +3,16 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome to Devops traning  2029 </title>
+<title> Welcome to Karnataka</title>
 <style>
   body {
-    background-color: red;
+    background-color: White;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to  Devops traning 2029 </h1>
-<p> Welcome to  Devops traning for 2029 oct Evening Batch.</p>
+<h1>Welcome to Karnataka </h1>
+<p> It is one of the beautiful place.</p>
 </body>
 </html>
 
